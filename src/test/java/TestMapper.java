@@ -22,5 +22,6 @@ public class TestMapper {
 
     int i = houseInfoMapper.saveHouseInfo(houseInfo);
     System.err.println(i>0?"succes":"fail");
+//哈哈哈哈哈哈啊啊 安徽 
 }
 }
